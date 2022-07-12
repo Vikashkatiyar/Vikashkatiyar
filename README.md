@@ -1,8 +1,10 @@
-[![MasterHead](https://cdn.vectorstock.com/i/1000x1000/41/02/java-developer-concept-vector-9274102.webp)]
+
 <h1 align="center">Hi 👋, I'm Vikash Katiyar</h1>
 <h3 align="center">A DSA enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashkatiyar&label=Profile%20views&color=0e75b6&style=flat" alt="vikashkatiyar" /> </p>
+
+- 🔭 I am  a B.Tech(IT) student of ABES Engineering College,Ghaziabad, Uttar Pradesh.
 
 - 🌱 I’m currently learning **Java Backend Development with Spring Boot**
 
