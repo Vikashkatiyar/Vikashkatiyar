@@ -6,7 +6,7 @@
 
 - 🔭 I am  a B.Tech(IT) student of ABES Engineering College,Ghaziabad, Uttar Pradesh.
 
-- 🌱 I’m currently learning **Java Backend Development with Spring Boot**
+- 🌱 I’m currently exploring **Backend Development with Spring Boot**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
