@@ -4,13 +4,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashkatiyar&label=Profile%20views&color=0e75b6&style=flat" alt="vikashkatiyar" /> </p>
 
-- 🔭 I am  a B.Tech(IT) student of ABES Engineering College,Ghaziabad, Uttar Pradesh.
+- 🔭 I am a **B.Tech(IT) Graduate** from Ghaziabad, Uttar Pradesh and **Backend Developer specializing in Java, and Spring Boot**
 
-- 🌱 I’m currently exploring **Backend Development with Spring Boot**
+- 🌱 I’m currently exploring **GenAI and Backend Development with Spring Boot focusing Microservices**
+  
+- 📚 Strong foundation in **Data Structures and Algorithms**, with **1200+** problems solved
+  
+- 🤖 Touch-base knowledge of **GenAI, React, and .NET** with hands-on experience in developing projects using **AI tools**
 
-- 💬 Ask me about **Data Structures and Algorithms**
+- 💡 Passionate about creating **impactful projects and innovative solutions**
+  
+- 💬 Ask me about **Data Structures and Algorithms** and **Backend Development**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/vikash-katiyar-6b44a8210/)**
+ **[Email](vikashktr018@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
